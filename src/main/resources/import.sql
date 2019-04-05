@@ -1,12 +1,12 @@
 /*Regiones*/
-INSERT INTO regiones(id,nombre)values(1,'SudamÈrica');
-INSERT INTO regiones(id,nombre)values(2,'CentroamÈrica');
-INSERT INTO regiones(id,nombre)values(3,'NorteamÈrica');
+INSERT INTO regiones(id,nombre)values(1,'Sudam√©rica');
+INSERT INTO regiones(id,nombre)values(2,'Centroam√©rica');
+INSERT INTO regiones(id,nombre)values(3,'Norteam√©rica');
 INSERT INTO regiones(id,nombre)values(4,'Europa');
 INSERT INTO regiones(id,nombre)values(5,'Asia');
 INSERT INTO regiones(id,nombre)values(6,'Africa');
-INSERT INTO regiones(id,nombre)values(7,'OceanÌ≠a');
-INSERT INTO regiones(id,nombre)values(8,'Ant·rtida');
+INSERT INTO regiones(id,nombre)values(7,'Ocean√≠a');
+INSERT INTO regiones(id,nombre)values(8,'Ant√°rtida');
 /*Regiones*/
 
 
