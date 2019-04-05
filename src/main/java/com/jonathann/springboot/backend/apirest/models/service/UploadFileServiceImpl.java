@@ -19,7 +19,7 @@ import org.springframework.web.multipart.MultipartFile;
 public class UploadFileServiceImpl implements IUploadFileService {
 
 	private final Logger log = LoggerFactory.getLogger(getClass());
-	private final static String DIRECTORIO_FOTOS = "/Users/jonathannladino/Desktop/spring5/imagenesClientes";
+	private final static String DIRECTORIO_FOTOS = "uploads";
 
 	@Override
 	public Resource cargar(String nombreFoto) throws MalformedURLException {
